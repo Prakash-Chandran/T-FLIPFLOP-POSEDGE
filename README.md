@@ -79,4 +79,5 @@ endmodule
 ![9T](https://github.com/Prakash-Chandran/T-FLIPFLOP-POSEDGE/assets/147120899/d21f58da-3484-48d0-b424-27f9e55351f2)
 
 **RESULT**
+
 Thus the program to implement a T flipflop using verilog and validating their functionality using their functional tables is successfully completed.
